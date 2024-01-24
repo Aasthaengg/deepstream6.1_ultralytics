@@ -1,4 +1,6 @@
-## Introduction'
+## Introduction
+
+![FPS](resources/display.gif)
 
 I am sharing my learnings in the area of real-time object detection, combining NVIDIA DeepStream's robust streaming capabilities with the state-of-the-art Ultralytics YOLOv8 model. 
 The core of this application is a GStreamer pipeline, selected for its flexibility and strength in handling complex video data streams. This pipeline integrates a series of critical GStreamer plugins: 
